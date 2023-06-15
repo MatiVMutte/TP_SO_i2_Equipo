@@ -1,4 +1,35 @@
+Ayuza Ignacio
+Etchegaray Joaquin
+Reta Mutte Matias
+
 A. Mediante GitHub tocando la opcion "Sync Fork" se actualiza el repostorio remoto en GitHub pero no en forma local y otra forma es con git fetch REPOSITORIO para traer los cambios del repo original al LOCAL y con git merge REPO/RAMA fusionas los cambios del REPO ORIGINAL con el REPO FORK y por ultimo un PUSH para subir los cambios.
 B. No.
 C. No.
 D. En este caso BETA no hizo ningun FORK pero los demas(ALFA y GAMMA) al hacerlo con BETA, y editar el archivo "fork.txt". Al actualizar el FORK no pierde la información el archivo editado.
+E.
+
+git init                                                                        ---- Matias Mutte
+git add README.md                                                               ---- Matias Mutte
+git commit -m "Update README.md"                                                ---- Matias Mutte
+git remote add origin https://github.com/MatiVMutte/TP_SO_i2_Equipo107.git      ---- Matias Mutte
+git push -u origin main                                                         ---- Matias Mutte
+git add fork.txt                                                                ---- Matias Mutte
+git commit -m "Agregue fork.txt"                                                ---- Matias Mutte
+git push origin main                                                            ---- Matias Mutte
+
+git clone                                                                       ---- Ignacio Ayuza
+git add.                                                                        ---- Ignacio Ayuza
+git push origin main                                                            ---- Ignacio Ayuza
+
+git clone                                                                       ---- Joaquin Etchegaray
+git add.                                                                        ---- Joaquin Etchegaray
+git push origin main                                                            ---- Joaquin Etchegaray
+
+git add NuevoDato.txt.                                                          ---- Matias Mutte
+git commit -m "Agregue archivo"                                                 ---- Matias Mutte
+git push origin main                                                            ---- Matias Mutte
+
+git commit -m                                                                   ---- Ignacio Ayuza
+git push origin main                                                            ---- Ignacio Ayuza
+git commit -m                                                                   ---- Joaquin Etchegaray
+git push origin main                                                            ---- Joaquin Etchegaray
