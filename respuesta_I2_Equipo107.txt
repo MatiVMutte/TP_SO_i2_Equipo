@@ -1,2 +1,2 @@
-A. Mediante GitHub tocando la opcion "Sync Fork" y otra forma es con git fetch REPOSITORIO para traer los cambios del repo original al LOCAL y con git merge REPO/RAMA fusionas los cambios del REPO ORIGINAL con el REPO FORK y por ultimo un PUSH para subir los cambios.
-B. No
+A. Mediante GitHub tocando la opcion "Sync Fork" se actualiza el repostorio remoto en GitHub pero no en forma local y otra forma es con git fetch REPOSITORIO para traer los cambios del repo original al LOCAL y con git merge REPO/RAMA fusionas los cambios del REPO ORIGINAL con el REPO FORK y por ultimo un PUSH para subir los cambios.
+B. No.
