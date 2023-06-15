@@ -26,10 +26,14 @@ git add.                                                                        
 git push origin main                                                            ---- Joaquin Etchegaray
 
 git add NuevoDato.txt.                                                          ---- Matias Mutte
-git commit -m "Agregue archivo"                                                 ---- Matias Mutte
+git commit -m "Agrego archivo"                                                  ---- Matias Mutte
 git push origin main                                                            ---- Matias Mutte
 
-git commit -m                                                                   ---- Ignacio Ayuza
+git commit -m "agregue respuestas a y b"                                        ---- Ignacio Ayuza
 git push origin main                                                            ---- Ignacio Ayuza
-git commit -m                                                                   ---- Joaquin Etchegaray
+
+git commit -m "agregue respuestas C y D"                                        ---- Matias Mutte
+git push origin main                                                            ---- Matias Mutte
+
+git commit -m  "agrego respuesta e"                                             ---- Joaquin Etchegaray
 git push origin main                                                            ---- Joaquin Etchegaray
